@@ -1,0 +1,7 @@
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe.config
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.pdb
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.exe
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.pdb
