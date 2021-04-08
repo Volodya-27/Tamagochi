@@ -5,3 +5,6 @@ C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojAssemb
 C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
 C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.exe
 C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.pdb
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\bin\Debug\LogerLib.dll
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\bin\Debug\LogerLib.pdb
+C:\Users\linec\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CopyComplete
